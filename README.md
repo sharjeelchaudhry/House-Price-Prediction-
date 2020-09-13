@@ -1,1 +1,1 @@
-# House-Price-Prediction-Kaggle_competetion top 7%
+# House-Price-Prediction-Kaggle_competetion top 6%
